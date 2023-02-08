@@ -1,0 +1,9 @@
+Custom Object: Flat TV. Televisions is the entrance of a whack-a-mole-like minigame. It will show countdown once interacted.  
+
+Custom Interaction: Once the player interacts with one of the TV, all of the computers will be activated, and a whack-a-mole-like game starts. Computers will be randomly turned on and loop a video. If the player interacts with the computers, they will be shut down. The goal of the minigame is to shutdown computers as many as possible in the limited time.
+
+Portfolio link:
+Hongxiao Zheng:
+https://waley-z.github.io/
+Yi He:
+https://echohyyy.netlify.app/project
